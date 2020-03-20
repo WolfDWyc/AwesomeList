@@ -5,7 +5,7 @@ AwesomeList is a java list implementation that outperforms both arraylist and li
 
 example:
 
-List<Integer> myList = new AwesomeList<>();
+List <Integer> myList = new AwesomeList<>();
 
 that's it! 
 

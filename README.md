@@ -1,5 +1,4 @@
 # AwesomeList
-load all 4 java files to your java IDE
 
 AwesomeList is a java list implementation that outperforms both arraylist and linkedlist
 

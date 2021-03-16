@@ -2,7 +2,7 @@
 
 I made this project when I had a lot less knowledge in programming.
 
-There is no project, no directory structure, no docs and no maven dependency.
+There is no project file, no directory structure, no docs and no maven dependency.
 
 I'm not even sure if it actually outperforms both because the tests I made were unprofessional.
 
